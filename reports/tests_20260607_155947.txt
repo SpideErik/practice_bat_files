@@ -1,0 +1,19 @@
+Отчет тестирования
+Дата: 07.06.2026 15:59:47,58
+
+
+
+=================================== ERRORS ====================================
+_____________________ ERROR collecting tests/test_main.py _____________________
+import file mismatch:
+imported module 'test_main' has this __file__ attribute:
+  C:\Erik\2026\practice_bat_files\_release\practice_bat_files_20260607_151931\tests\test_main.py
+which is not the same as the test file we want to collect:
+  C:\Erik\2026\practice_bat_files\tests\test_main.py
+HINT: remove __pycache__ / .pyc files and/or use a unique basename for your test file modules
+=========================== short test summary info ===========================
+ERROR tests/test_main.py
+!!!!!!!!!!!!!!!!!!! Interrupted: 1 error during collection !!!!!!!!!!!!!!!!!!!!
+1 error in 0.18s
+
+[FAIL] Есть ошибки в тестах.

@@ -1,0 +1,9 @@
+Анализ логов
+Дата: 07.06.2026 16:01:03,44
+
+Найденные строки:
+
+logs\app.log:2:WARNING Demo warning for log analyzer
+logs\app.log:3:ERROR Demo error for log analyzer
+
+[INFO] Найдены потенциальные ошибки.

@@ -1,0 +1,33 @@
+============================================
+ Отчет проверки окружения разработчика
+============================================
+Дата проверки: 07.06.2026 15:40:00,39
+
+[OK] Python найден
+Python 3.13.5
+
+[OK] Pip найден
+pip 25.1.1 from C:\Python313\Lib\site-packages\pip (python 3.13)
+
+[OK] Git найден
+git version 2.45.1.windows.1
+
+[OK] Node.js найден
+v25.2.0
+
+[OK] NPM найден
+11.6.2
+
+[НЕТ] Docker не найден
+[OK] Visual Studio Code CLI найден
+1.122.1
+8761a5560cfd65fdd19ce7e2bd18dab5c0a4d84e
+x64
+
+[OK] Java найден
+java version "1.8.0_401"
+Java(TM) SE Runtime Environment (build 1.8.0_401-b10)
+Java HotSpot(TM) Client VM (build 25.401-b10, mixed mode, sharing)
+
+
+Проверка завершена.
